@@ -15,7 +15,7 @@ let luckyNumber = 2;
 // 6 - Console log this sentence, adding in the variables you created above: 
 // 'My name is (full name), and I think (lucky number) is a winner!'.
 // Refer back to the videos if you need help with this one.
-console.log('My name is', fullName + ', and I think', luckyNumber ,'is a winner!');
+console.log('My name is', fullName + ', and I think ' + luckyNumber + ' is a winner!');
 // 7 - Create a variable named `adventurous` and set it to a boolean value (true or false)
 let adventurous = true;
 console.log(adventurous);
@@ -33,7 +33,7 @@ pets += 2;
 console.log('I want to have ' + pets + ' dogs in the future.');
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
 let allowedPets = 1;
-console.log('But my lease only lets me have', allowedPets , 'dog.');
+console.log('But my lease only lets me have '+ allowedPets + ' dog.');
 // 13 - Create a conditional: if adventurous is true, console log "Adventures are great!", 
 // if it's not true, console log "How about we stay home?"
 if(adventurous == true){
