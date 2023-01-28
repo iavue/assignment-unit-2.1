@@ -76,6 +76,7 @@ else if(friendsPets > pets){
     mostPets = friendsPets;
 }
 console.log(mostPets);
+
 // 17 - Write a *switch* statement that logs:
 //      "First is the worst" if your lucky number is 1
 //      "Second is the best" if your lucky number is 2
